@@ -1,0 +1,11 @@
+{
+  "name": "frontend-architecture-week4-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm --prefix weatherwise-week4-api-integration run dev",
+    "dev": "npm --prefix weatherwise-week4-api-integration run dev",
+    "build": "npm --prefix weatherwise-week4-api-integration run build",
+    "preview": "npm --prefix weatherwise-week4-api-integration run preview"
+  }
+}
